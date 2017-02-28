@@ -1,0 +1,8 @@
+sourceRoot: ../app
+
+freemarkerLinks: {
+    components: ../templates/components
+    connectors: ../templates/connectors
+    flows:      ../templates/flows
+    routers:    ../templates/routers
+}

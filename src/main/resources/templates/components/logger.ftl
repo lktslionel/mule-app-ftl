@@ -1,0 +1,1 @@
+ <logger level="DEBUG" message="hello world"></logger>

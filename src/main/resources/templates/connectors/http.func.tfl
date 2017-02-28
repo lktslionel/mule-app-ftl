@@ -1,0 +1,3 @@
+<#macro config name host port>
+  <http:listener-config name="${name}" host="${host}" port="${port}"/>
+</#macro>
